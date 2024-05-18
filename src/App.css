@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(127,255,212);
+  margin: 0%;
+  padding:0%;
+}
+.TextBox{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+  outline: none;
+  text-align: center;
+}
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  border-radius: 0px 5px  5px 0px;
+  outline: none;
+  margin-left: -5px;
+}
+.AddText{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  border-radius: 7px;
+  outline: none;
+  text-align: center;
+}
